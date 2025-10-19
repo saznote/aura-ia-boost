@@ -4,7 +4,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { ArrowRight, Brain, Sparkles, Users, Star } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import ElevenLabsWidget from "@/components/ElevenLabsWidget";
 import heroBg from "@/assets/hero-bg.jpg";
 import serviceAudit from "@/assets/service-audit.jpg";
 import serviceContent from "@/assets/service-content.jpg";
@@ -201,7 +200,6 @@ const Home = () => {
       </section>
 
       <Footer />
-      <ElevenLabsWidget />
     </div>
   );
 };
