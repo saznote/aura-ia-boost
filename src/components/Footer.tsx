@@ -44,13 +44,13 @@ const Footer = () => {
                 contact@aura-ai.com
               </a>
               <a
-                href="https://wa.me/21612345678"
+                href="https://wa.me/21622658775"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-sm text-muted-foreground hover:text-primary transition-colors"
               >
                 <MessageCircle className="h-4 w-4" />
-                WhatsApp
+                +216 22 658 775
               </a>
             </div>
           </div>

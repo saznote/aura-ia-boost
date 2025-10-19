@@ -43,7 +43,7 @@ const Contact = () => {
 
   const handleWhatsApp = () => {
     const message = encodeURIComponent("Bonjour, je souhaite en savoir plus sur vos services IA.");
-    window.open(`https://wa.me/21612345678?text=${message}`, "_blank");
+    window.open(`https://wa.me/21622658775?text=${message}`, "_blank");
   };
 
   const contactInfo = [
@@ -56,14 +56,14 @@ const Contact = () => {
     {
       icon: MessageCircle,
       title: "WhatsApp",
-      value: "+216 12 345 678",
-      link: "https://wa.me/21612345678",
+      value: "+216 22 658 775",
+      link: "https://wa.me/21622658775",
     },
     {
       icon: Phone,
       title: "Téléphone",
-      value: "+216 12 345 678",
-      link: "tel:+21612345678",
+      value: "+216 22 658 775",
+      link: "tel:+21622658775",
     },
     {
       icon: MapPin,
